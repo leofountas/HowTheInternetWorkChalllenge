@@ -1,6 +1,6 @@
 # How the Internet works?
 
-<img style="zoom:80%" width="500" height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVwMmluYXVldDAwcmhxMGlhNXc0cXppNDRzcmVqZHd6MWYyYnF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+<img src="https://i.giphy.com/UevalSWg5twQeqpc8Q.gif">
 
 > ## 🔎 What is the Internet?   
 >
